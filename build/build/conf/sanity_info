@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/varun/yocto_jen_int/build/build/tmp
+SSTATE_DIR /home/varun/yocto_jen_int/build/build/sstate-cache
+NATIVELSBSTRING Ubuntu-16.04
